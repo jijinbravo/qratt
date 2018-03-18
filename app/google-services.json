@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935497131182",
+    "firebase_url": "https://qrlogin-b4a3e.firebaseio.com",
+    "project_id": "qrlogin-b4a3e",
+    "storage_bucket": "qrlogin-b4a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935497131182:android:ec1ab9260324fe2f",
+        "android_client_info": {
+          "package_name": "com.example.jijin.qrlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935497131182-15c6gnnnpphmgdkmde2mvabdmripqjqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jijin.qrlogin",
+            "certificate_hash": "39a605dd0fa6f61bb1a4c285e5294da32962a613"
+          }
+        },
+        {
+          "client_id": "935497131182-aut3k5m9id0j2f4g2a4fqv3k5hcv6ofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleexGFKw6VgVRqiYiCvo9ygatwXA-ntc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935497131182-aut3k5m9id0j2f4g2a4fqv3k5hcv6ofn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
